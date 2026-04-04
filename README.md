@@ -18,7 +18,7 @@ Magnet Finance is an institutional-grade, deflationary DeFi protocol built nativ
 ## 📖 Documentation
 
 - **Whitepaper:** [magnet-finance.gitbook.io/magnet-finance-whitepaper](https://magnet-finance.gitbook.io/magnet-finance-whitepaper)
-- **App:** [unified-swap-hub.replit.app](https://unified-swap-hub.replit.app)
+- **App:** [https://mgntfinance.com](https://mgntfinance.com)
 - **X (Twitter):** [@MGNTFinance](https://x.com/MGNTFinance)
 
 ---
@@ -142,7 +142,7 @@ The Season 1 Genesis Points campaign is live. Early participants earn points tha
 | Platform | Link |
 |----------|------|
 | X (Twitter) | [@MGNTFinance](https://x.com/MGNTFinance) |
-| Telegram | Coming Soon |
+| Telegram | [https://t.me/MGNTFinancePublic](https://t.me/MGNTFinancePublic) |
 | Whitepaper | [GitBook](https://magnet-finance.gitbook.io/magnet-finance-whitepaper) |
 
 ---
